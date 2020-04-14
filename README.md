@@ -25,25 +25,30 @@ Don't change the contents of the folder.
 ### 1) To Connect :
 
 Step 1: The user which clicks the BLUE file explorer button becomes the HOST and the HOSTNAME is generated at the RIGHT–TOP corner.
-![](image/hostname.png)
+  ![](image/hostname.png)
+  
 Step 2: The user which clicks the YELLOW file explorer button becomes the CLIENT.
-![](image/client.png)
+  ![](image/client.png)
+  
 Step 3: To connect the client to the host type the HOSTNAME in the RIGHT-TOP corner on the CLIENT side and press ENTER.
 
 Step 4: CONNECTED is displayed at the center of both the GUI, so it means the connection is established.
-![](image/complete.png)
+  ![](image/complete.png)
 
 ### 2) To Transfer :
 
 Step 1: Anyone (CLIENT or HOST) can press the SELECT FILE button after the connection is established.
-![](image/cl1.png)
+  ![](image/cl1.png)
 
 Step 2: Select the file that is to be transferred and press Open.
 
+
 Step 3: Press the Data Transfer Button located in between the Blue and Yellow file explorer button.
-![](image/cl2.png)
+  ![](image/cl2.png)
+
 
 Step 4: File will be RECEIVED in the same folder/location where the Project(Python) file is located.
+
 
 Step 5: Wait until the data is transferred and then you can again ENJOY with transferring more and more data that too without INTERNET.
 ### 3) To Disconnect:
