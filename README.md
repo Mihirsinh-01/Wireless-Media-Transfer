@@ -2,7 +2,7 @@
 Wireless Transmission of data between Laptops using Socket Programming in Python
 
 ## NOTE:
-Download Python_Project Folder and run project.py file iside it.
+Download Python_Project Folder and run project.py file inside it.
 Don't change the contents of the folder.
 
 ## Requirements: 
